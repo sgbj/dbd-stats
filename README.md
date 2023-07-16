@@ -10,9 +10,9 @@ A web app that gets Dead by Daylight player stats from Steam.
 * [Vercel](https://vercel.com/) and Postgres
 * [Prisma](https://www.prisma.io/)
 
-![image](https://github.com/sgbj/dbd-stats/assets/5178445/1d99dc79-7729-4bbf-affa-e00d1b3b7561)
+![image](https://github.com/sgbj/dbd-stats/assets/5178445/829fb49a-c656-483c-bc68-dc94160d2d81)
 
-![image](https://github.com/sgbj/dbd-stats/assets/5178445/be6675c1-a9c2-495f-9831-894a6dc67ac5)
+![image](https://github.com/sgbj/dbd-stats/assets/5178445/b0a117ea-7af2-4703-8694-b83bbd754246)
 
 ---
 
