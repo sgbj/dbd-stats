@@ -1,3 +1,22 @@
+# DBD Stats
+
+https://dbd-stats.vercel.app/
+
+A web app that gets Dead by Daylight player stats from Steam.
+
+* [Next.js](https://nextjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [shadcn/ui](https://ui.shadcn.com/)
+* [Vercel](https://vercel.com/)
+* [Postgres](https://www.postgresql.org/)
+* [Prisma](https://www.prisma.io/)
+
+![image](https://github.com/sgbj/dbd-stats/assets/5178445/1d99dc79-7729-4bbf-affa-e00d1b3b7561)
+
+![image](https://github.com/sgbj/dbd-stats/assets/5178445/be6675c1-a9c2-495f-9831-894a6dc67ac5)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
