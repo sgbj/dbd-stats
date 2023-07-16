@@ -4,11 +4,10 @@ https://dbd-stats.vercel.app/
 
 A web app that gets Dead by Daylight player stats from Steam.
 
-* [Next.js](https://nextjs.org/)
+* [Next.js](https://nextjs.org/), React Server Components, and Server Actions
 * [Tailwind CSS](https://tailwindcss.com/)
 * [shadcn/ui](https://ui.shadcn.com/)
-* [Vercel](https://vercel.com/)
-* [Postgres](https://www.postgresql.org/)
+* [Vercel](https://vercel.com/) and Postgres
 * [Prisma](https://www.prisma.io/)
 
 ![image](https://github.com/sgbj/dbd-stats/assets/5178445/1d99dc79-7729-4bbf-affa-e00d1b3b7561)
