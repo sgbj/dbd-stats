@@ -113,7 +113,7 @@ export default async function Page({
             </TableHeader>
             <TableBody>
               {stats.map((stat) => (
-                <TableRow>
+                <TableRow key={stat.name}>
                   <TableCell className="font-semibold">{stat.name}</TableCell>
                   <TableCell className="text-right">
                     {userStats[stat.name]}
@@ -128,6 +128,7 @@ export default async function Page({
             {achievements.map((achievement) =>
               achievement.hidden ? null : (
                 <Card
+                  key={achievement.name}
                   className={
                     userStats[achievement.name] ? "opacity-100" : "opacity-50"
                   }
